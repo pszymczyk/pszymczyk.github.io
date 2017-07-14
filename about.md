@@ -52,11 +52,4 @@ centralized system for auditing application changes.</p>
 	<li>Mentoring</li>
 </ul>
 
-<h2>Projects</h2>
-<ul>
-	<li><a href="https://github.com/javers/javers">Javers</a></li>
-	<li><a href="https://github.com/pszymczyk/embedded-consul">Embedded Consul</a></li>
-	<li><a href="https://github.com/allegro/hermes">Hermes</a></li>
-</ul>
-
 <p><b>I can help your company in with all above topics, do not do not hesitate to contact with me.</b></p>
