@@ -16,16 +16,16 @@ layout: page
 
 <p>Believe in quality:
 <ul class="skill-list">
-	<li>tests first</li>
-	<li>high quality code review</li>  
-	<li>integration tests over plenty of mocks</li>
-	<li>contract tests</li>
+	<li>Tests first</li>
+	<li>High quality code review</li>  
+	<li>Integration tests over plenty of mocks</li>
+	<li>Contract tests</li>
 </ul></p>
 
 <p>Automatize everything which provides good return of investment:
 <ul class="skill-list">
-  <li>infrastructure as a code</li>
-	<li>continuous integration & deployment</li>
+  <li>Infrastructure as a code</li>
+  <li>Continuous integration & deployment</li>
 </ul></p>
 
 <p>Convicted that Devops culture is only one right way to build high quality, well designed, high scalable and high
