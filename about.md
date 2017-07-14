@@ -52,4 +52,4 @@ centralized system for auditing application changes.</p>
 	<li>Mentoring</li>
 </ul>
 
-<p><b>I can help your company in with all above topics, do not do not hesitate to contact with me.</b></p>
+<p><b>I can help your company in with all above topics, do not hesitate to contact with me.</b></p>
