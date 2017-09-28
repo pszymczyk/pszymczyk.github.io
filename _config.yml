@@ -1,6 +1,6 @@
 # main text of home
 name: Paweł Szymczyk
-bio: software engineer, independent consultant, photographer
+bio: software engineer, architect, independent consultant
 
 # twitter summary info
 description: Paweł Szymczyk personal site
@@ -34,7 +34,6 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-500px: paweszymczyk
 #facebook: myfacebook
 twitter: p_szymczyk
 # google: mygoogle
