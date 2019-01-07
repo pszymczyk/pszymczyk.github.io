@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am software engineer with 5+ years commercial experience in software development.</p>
+<p>I am software engineer with 7+ years commercial experience in software development.</p>
 <p>Big fan of modern software development patterns:
 <ul class="skill-list">
 	<li>Domain Driven Development</li>
