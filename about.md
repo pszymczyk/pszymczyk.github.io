@@ -51,4 +51,4 @@ centralized system for auditing application changes.</p>
 	<li>Mentoring</li>
 </ul>
 
-<p><b>I can help your company with all above topics, do not hesitate to contact me at pawel@pszymczyk.com</b></p>
+<p><b>I can support you or your company with all above topics, do not hesitate to contact me at pawel@pszymczyk.com</b></p>
