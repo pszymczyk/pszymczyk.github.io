@@ -52,4 +52,4 @@ centralized system for auditing application changes.</p>
 	<li>Mentoring</li>
 </ul>
 
-<p><b>If you have any inquiresplease  do not hesitate to contact me at pawel@pszymczyk.com</b></p>
+<p><b>If you have any enquiries/inquires please  do not hesitate to contact me at pawel@pszymczyk.com</b></p>
