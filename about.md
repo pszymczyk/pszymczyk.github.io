@@ -18,9 +18,8 @@ layout: page
 <ul class="skill-list">
 	<li>Quality</li>
 	<li>TDD</li>
-	<li>High quality Code Review </li>  
-	<li>Integration tests over plenty mocks</li>
-	<li>Contract tests</li>
+	<li>High quality Code Review</li>  
+	<li>Integration testing over plenty Mocks</li>
 </ul></p>
 
 <p>Automatize everything what provides good return of investment:
