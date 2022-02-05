@@ -4,11 +4,11 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am software engineer with 7+ years commercial experience in software development.</p>
-<p>Big fan of modern software development patterns:
+<p>I am a software engineer with 10+ years commercial experience in software development.</p>
+<p>Big fan of modern software development practices:
 <ul class="skill-list">
-	<li>Domain Driven Development</li>
 	<li>Event Driven Development</li>
+	<li>Domain Driven Development</li>
 	<li>Microservices</li>
 	<li>Hexagonal Architecture</li>
 	<li>Command Query Responsibility Segregation</li>
@@ -23,13 +23,14 @@ layout: page
 	<li>Contract tests</li>
 </ul></p>
 
-<p>Automatize everything which provides good return of investment:
+<p>Automatize everything what provides good return of investment:
 <ul class="skill-list">
   <li>Infrastructure as a code</li>
   <li>Continuous integration & deployment</li>
 </ul></p>
 
-<p>Convicted that Devops culture is only one right way to build high quality, well designed, high scalable and availability systems.</p>
+<p>Belive in Devops culture, it is the only right way to build well designed, high quality, high scaling and high availiable systems.</p>
+
 <p>Co-founder of Open Source project <a href="https://github.com/javers/javers">Javers</a> - modern,
 centralized system for auditing application changes.</p>
 
@@ -51,4 +52,4 @@ centralized system for auditing application changes.</p>
 	<li>Mentoring</li>
 </ul>
 
-<p><b>I can support you or your company with all above topics, do not hesitate to contact me at pawel@pszymczyk.com</b></p>
+<p><b>If you have any inquiresplease  do not hesitate to contact me at pawel@pszymczyk.com</b></p>
