@@ -22,7 +22,7 @@ layout: page
 	<li>Integration testing over plenty Mocks</li>
 </ul></p>
 
-<p>Automatize everything what provides good return of investment:
+<p>Automitizing everything what provides good return of investment:
 <ul class="skill-list">
   <li>Infrastructure as a code</li>
   <li>Continuous integration & deployment</li>
