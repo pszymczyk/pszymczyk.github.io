@@ -17,7 +17,7 @@ layout: page
 <p>I believe in:
 <ul class="skill-list">
 	<li>Quality</li>
-	<li>Tests first</li>
+	<li>TDD</li>
 	<li>High quality code review</li>  
 	<li>Integration tests over plenty mocks</li>
 	<li>Contract tests</li>
