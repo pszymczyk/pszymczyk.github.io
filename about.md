@@ -14,7 +14,7 @@ layout: page
 	<li>Command Query Responsibility Segregation</li>
 </ul></p>
 
-<p>Believe in:
+<p>I believe in:
 <ul class="skill-list">
 	<li>Quality</li>
 	<li>Tests first</li>
