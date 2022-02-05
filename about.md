@@ -22,7 +22,7 @@ layout: page
 	<li>Integration testing over plenty Mocks</li>
 </ul></p>
 
-<p>Practicing DevOps, it is the right way to build high quality, high scaling and high availiable systems.</p>
+<p>Practising DevOps, it is the right way to build high quality, high scaling and high availiable systems.</p>
 
 <p>Co-founder of Open Source project <a href="https://github.com/javers/javers">Javers</a> - modern,
 centralized system for auditing application changes.</p>
