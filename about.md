@@ -18,7 +18,7 @@ layout: page
 <ul class="skill-list">
 	<li>Quality</li>
 	<li>TDD</li>
-	<li>High quality code review</li>  
+	<li>High quality Code Review </li>  
 	<li>Integration tests over plenty mocks</li>
 	<li>Contract tests</li>
 </ul></p>
